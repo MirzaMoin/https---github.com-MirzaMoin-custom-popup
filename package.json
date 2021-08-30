@@ -1,6 +1,6 @@
 {
-  "name": "custom_popup2",
-  "version": "0.1.0",
+  "name": "rrpopup",
+  "version": "1.0.0",
   "main": "popup.js",
   "license": "ISC",
   "private": false,
